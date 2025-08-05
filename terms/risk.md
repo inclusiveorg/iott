@@ -6,4 +6,4 @@
 
 #### Notes
 
-Risk can be conceived and expressed according to the [dimensions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md) of *[probability](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/probability.md) and amplitude* of damage.
+Risk can be conceived and expressed according to the [dimensions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md) of *[probability](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/probability.md) and amplitude* of damage, although these can't often be [precisely](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/precise.md) [measured](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/measure.md).
