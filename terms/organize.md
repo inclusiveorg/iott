@@ -4,7 +4,7 @@
 
 #### Specialized Definition
 
-*An organization* is *a [project](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/project.md) which holds [agency](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) in one or more [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*.
+*An organization* is *a [project](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/project.md) which may [act](https://github.com/inclusiveorg/iott/blob/master/terms/act.md) as an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) in one or more [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*.
 
 
 #### Notes
